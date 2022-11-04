@@ -16,8 +16,21 @@
                 "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png"
               }
             }
+          },
+          {
+            "id": "91016c71a36cf030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduzione alla Programmazione/thing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "41a1a64777d9de83",
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png",
+                "file": "Introduzione alla Programmazione/thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png",
+                "file": "Introduzione alla Programmazione/thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png"
+                "file": "Introduzione alla Programmazione/thing.md"
               }
             }
           },
@@ -160,8 +173,9 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "317288aedca349c6",
+  "active": "91016c71a36cf030",
   "lastOpenFiles": [
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/F karnaugh.png",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/E karnaugh.png",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/D karnaugh.png",
@@ -170,7 +184,6 @@
     "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/A karnaugh.png",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/Pasted image 20221104153011.png",
-    "Pasted image 20221104163606.png",
-    "Architettura dei Calcolatori/Esercitazioni/1/Images/7sd diagram 2.png"
+    "Pasted image 20221104163606.png"
   ]
 }
