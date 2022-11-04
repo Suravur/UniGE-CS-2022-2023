@@ -4,11 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb229ab4550d07d",
+        "id": "4c9287f13cbec07f",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc1e28f59cd0229",
+            "id": "033d82f23041d1eb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "41a1a64777d9de83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f049721d0b2481b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md"
+                "file": "Architettura dei Calcolatori/Esercitazioni/1/Images/G karnaugh.png"
               }
             }
           },
@@ -144,17 +160,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "9fc1e28f59cd0229",
+  "active": "317288aedca349c6",
   "lastOpenFiles": [
-    "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
-    "Architettura dei Calcolatori/Esercitazioni/1/Images/Pasted image 20221104153433.png",
-    "Pasted image 20221104163606.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/F karnaugh.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/E karnaugh.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/D karnaugh.png",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/C karnaugh.png",
-    "Architettura dei Calcolatori/Esercitazioni/1/Images/Pasted image 20221104153011.png",
-    "Architettura dei Calcolatori/Esercitazioni/1/Images/7sd diagram 2.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/B karnaugh.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
     "Architettura dei Calcolatori/Esercitazioni/1/Images/A karnaugh.png",
-    "Logica/1 Logica proposizionale/1 Sintassi/Congiunzione.md",
-    "Logica/1 Logica proposizionale/1 Sintassi/Disgiunzione.md",
-    "Logica/1 Logica proposizionale/1 Sintassi/Implicazione.md"
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/Pasted image 20221104153011.png",
+    "Pasted image 20221104163606.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/7sd diagram 2.png"
   ]
 }
