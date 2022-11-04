@@ -46,7 +46,25 @@ Programma che legge un numero naturale N maggiore o uguale a 0 e quindi calcola 
 Programma che eseguire le stesse operazioni del programma 2 memorizzando però prima gli N valori letti in inputi in N registri distinti (supponete di avere sempre abbastanza registri per ogni N) e, in una seconda fase effettuando il calcolo del valore minimo usandi i dati operazioni sui dati nei registri attraverso l’accumulatore (suggerimento: usate operatore *R che opera sul registro con indirizzo contenuto in R).
 
 ```
-
+//reserving R1 for N, R2 for pointer, R3 min, R4 and above for input
+1	READ 1 //1-5 same as P2
+2	LOAD 1
+3	JGTZ 6
+4	JZERO #skip to end
+5	JUMP 1
+6	READ 2 //input MIN
+7	SUB=1 //decrement N
+8	STORE 1 //store updated value of N
+9	JZERO 17 //jump to line before HALT (WRITE 2 should be there) if N = 0
+10	READ 3 //input NUM
+11	LOAD 3 //load NUM into ACC
+12	SUB 2 //calculate difference
+13	JGTZ 7 //if NUM - MIN = (+) then loop again from decrement N
+14	LOAD 3 //if NUM - MIN = (-) then NUM is smaller, reload NUM
+15	STORE 2 //store NUM as MIN
+16	JUMP 7 //loop again from decrement N
+17	WRITE 2
+18	HALT
 ```
 
 ---
