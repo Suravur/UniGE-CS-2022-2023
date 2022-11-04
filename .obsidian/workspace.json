@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "52689239367bc834",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb229ab4550d07d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fc1e28f59cd0229",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b68a77da7de9134e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8cf2878476e41d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "317288aedca349c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58a7301a49080246",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b45e574f8700cffc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.50043487548828
+  },
+  "right": {
+    "id": "f2d1e9b5f53d81af",
+    "type": "split",
+    "children": [
+      {
+        "id": "0138a75b92373140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b01000651092839",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3aad9924ce826f29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b83521aa8be5021f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8ef2b435fd12906",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3024e0f19f946a65",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "active": "9fc1e28f59cd0229",
+  "lastOpenFiles": [
+    "Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/Pasted image 20221104153433.png",
+    "Pasted image 20221104163606.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/C karnaugh.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/Pasted image 20221104153011.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/7sd diagram 2.png",
+    "Architettura dei Calcolatori/Esercitazioni/1/Images/A karnaugh.png",
+    "Logica/1 Logica proposizionale/1 Sintassi/Congiunzione.md",
+    "Logica/1 Logica proposizionale/1 Sintassi/Disgiunzione.md",
+    "Logica/1 Logica proposizionale/1 Sintassi/Implicazione.md"
+  ]
+}
