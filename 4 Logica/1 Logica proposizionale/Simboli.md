@@ -1,4 +1,4 @@
-# Logica
+
 ## Connettivi
 
 I ***conntettivi logici*** sono i simboli:
