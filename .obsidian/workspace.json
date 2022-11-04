@@ -4,24 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41a1a64777d9de83",
+        "id": "960d9365b9e080e9",
         "type": "tabs",
         "children": [
           {
-            "id": "f049721d0b2481b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Logica/1 Logica proposizionale/Simboli.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "236c0e8597375446",
+            "id": "892caf62b79d4afe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d90e20acf2012618",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Index/Algebra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c8418b90dccd2fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 Index/Architetture dei Calcolatori.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Index/Architetture dei Calcolatori.md",
+                "file": "0 Index/Logica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Index/Architetture dei Calcolatori.md",
+                "file": "0 Index/Logica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Index/Architetture dei Calcolatori.md"
+                "file": "0 Index/Logica.md"
               }
             }
           },
@@ -166,17 +126,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "0c8418b90dccd2fe",
+  "active": "892caf62b79d4afe",
   "lastOpenFiles": [
-    "0 Index/Introduzione alla Programmazione.md",
     "0 Index/Logica.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Biimplicazione.md",
-    "0 Index/Index Notes.md",
-    "0 Index/Architetture dei Calcolatori.md",
     "0 Index/Algebra.md",
     "4 Logica/1 Logica proposizionale/Simboli.md",
-    "Excalidraw/Drawing 2022-11-05 00.15.45.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-05 00.16.40.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-05 00.16.35.excalidraw.md"
+    "4 Logica/Logica del prim'ordine.md",
+    "0 Index/Introduzione alla Programmazione.md",
+    "0 Index/Architetture dei Calcolatori.md",
+    "2 Architettura dei Calcolatori/Assembly Language.md",
+    "2 Architettura dei Calcolatori/Circuiti Combinatori.md",
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Biimplicazione.md",
+    "0 Index/Index Notes.md"
   ]
 }

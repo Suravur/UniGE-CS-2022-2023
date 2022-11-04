@@ -1,15 +1,32 @@
 All topics:
 
-[[Biimplicazione]]
+# [[Logica proposizionale]]
+
+## Simboli
+
+### [[Negazione]]
+
 [[Congiunzione]]
 [[Disgiunzione]]
-[[Conseguenza logica]]
+
 [[Contraddizione]]
-[[Equivalenza logica]]
-[[Implicazione]]
-[[Leggi di De Morgan]]
-[[Negazione]]
 [[Tautologia]]
+
+[[Implicazione]]
+[[Biimplicazione]]
+
+[[Conseguenza logica]]
+[[Equivalenza logica]]
+
+[[Leggi di De Morgan]]
+
+
+
+
+# [[Logica del prim'ordine]]
+
+
+
 [[Tavola di verità]]
 [[Alberi sintattici]]
 [[Interpretazione e valutazione]]
