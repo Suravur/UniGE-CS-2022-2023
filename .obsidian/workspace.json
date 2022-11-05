@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Index/Logica.md",
+                "file": "0 Index/Algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "f7d2aa5ae154af70",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "9 Excalidraw/Drawing 2022-11-05 00.55.59.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 Excalidraw/Drawing 2022-11-05 00.55.59.excalidraw.md",
+                "file": "0 Index/Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 Excalidraw/Drawing 2022-11-05 00.55.59.excalidraw.md",
+                "file": "0 Index/Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 Excalidraw/Drawing 2022-11-05 00.55.59.excalidraw.md"
+                "file": "0 Index/Algebra.md"
               }
             }
           },
@@ -137,17 +126,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f7d2aa5ae154af70",
+  "active": "892caf62b79d4afe",
   "lastOpenFiles": [
-    "8 ETC/blank.md",
-    "0 Index/Logica.md",
-    "0 Index/Algebra.md",
-    "4 Logica/1 Logica proposizionale/Simboli.md",
-    "4 Logica/Logica del prim'ordine.md",
-    "0 Index/Introduzione alla Programmazione.md",
     "0 Index/Architetture dei Calcolatori.md",
-    "2 Architettura dei Calcolatori/Assembly Language.md",
-    "2 Architettura dei Calcolatori/Circuiti Combinatori.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Biimplicazione.md"
+    "0 Index/Introduzione alla Programmazione.md",
+    "0 Index/Logica.md",
+    "4 Logica/1 Logica proposizionale/Simboli.md",
+    "4 Logica/Logica proposizionale.md",
+    "4 Logica/Logica del prim'ordine.md",
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Leggi di De Morgan.md",
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Negazione.md",
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Tautologia.md",
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Disgiunzione.md"
   ]
 }
