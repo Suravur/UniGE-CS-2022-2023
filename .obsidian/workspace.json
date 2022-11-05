@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Index/Algebra.md",
+                "file": "4 Logica/1 Logica proposizionale/1 Sintassi/Negazione.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7529e2c91069ac5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10b777a39fb89762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50043487548828
+    "width": 246.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "f2d1e9b5f53d81af",
@@ -78,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Index/Algebra.md",
+                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Index/Algebra.md",
+                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Index/Algebra.md"
+                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md"
               }
             }
           },
@@ -124,19 +144,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "892caf62b79d4afe",
+  "active": "10b777a39fb89762",
   "lastOpenFiles": [
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Negazione.md",
+    "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+    "4 Logica/Logica proposizionale.md",
+    "4 Logica/1 Logica proposizionale/Simboli.md",
+    "0 Index/Algebra.md",
     "0 Index/Architetture dei Calcolatori.md",
     "0 Index/Introduzione alla Programmazione.md",
     "0 Index/Logica.md",
-    "4 Logica/1 Logica proposizionale/Simboli.md",
-    "4 Logica/Logica proposizionale.md",
     "4 Logica/Logica del prim'ordine.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Leggi di De Morgan.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Negazione.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Tautologia.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Disgiunzione.md"
+    "4 Logica/1 Logica proposizionale/1 Sintassi/Leggi di De Morgan.md"
   ]
 }

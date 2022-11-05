@@ -36,6 +36,7 @@ I ***conntettivi logici*** sono i simboli:
 > applicata a una var *x* e asserzione $P$ è $\forall xP$
 
 # Conseguenza logica e equivalenza logica
+
 > [!info]
 > $\LARGE \vDash$  : [[Conseguenza logica]] ***... ha(nno) come conseguenza ...***
 > per scrivere $P_1,\dots, P_n$  hanno come conseguenza $Q$, scriviamo $P_1, P_2, \dots, P_n \vDash Q$
