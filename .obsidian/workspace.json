@@ -4,35 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "960d9365b9e080e9",
+        "id": "31a536c319ec3247",
         "type": "tabs",
         "children": [
           {
-            "id": "892caf62b79d4afe",
+            "id": "c99283f97e53b52c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Logica/1 Logica proposizionale/1 Sintassi/Negazione.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7529e2c91069ac5c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10b777a39fb89762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+                "file": "0 New Notes/Algebra 2022-12-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -81,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.50043487548828,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2d1e9b5f53d81af",
@@ -98,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+                "file": "0 New Notes/Algebra 2022-12-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
+                "file": "0 New Notes/Algebra 2022-12-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md"
+                "file": "0 New Notes/Algebra 2022-12-05.md"
               }
             }
           },
@@ -140,24 +120,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 200,
     "collapsed": true
   },
-  "active": "10b777a39fb89762",
+  "active": "c99283f97e53b52c",
   "lastOpenFiles": [
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Negazione.md",
-    "2 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md",
-    "4 Logica/Logica proposizionale.md",
-    "4 Logica/1 Logica proposizionale/Simboli.md",
-    "0 Index/Algebra.md",
-    "0 Index/Architetture dei Calcolatori.md",
-    "0 Index/Introduzione alla Programmazione.md",
-    "0 Index/Logica.md",
-    "4 Logica/Logica del prim'ordine.md",
-    "4 Logica/1 Logica proposizionale/1 Sintassi/Leggi di De Morgan.md"
+    "MathJax Tutorial.md",
+    "0 New Notes/Algebra 2022-12-05.md",
+    "3 Architettura dei Calcolatori/Assembly Language.md",
+    "2 Algebra/3. Numeri complessi.md",
+    "2 Algebra/Simboli (Algebra).md",
+    "2 Algebra/2. Numeri Interi.md",
+    "2 Algebra/1.1 Insiemi.md",
+    "2 Algebra/2 Numeri interi/2. Numeri interi.md",
+    "2 Algebra/1.2 Funzioni.md",
+    "3 Architettura dei Calcolatori/Esercitazioni/1/Esercitazione individuale 1.md"
   ]
 }

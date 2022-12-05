@@ -13,3 +13,9 @@
 | JGTZ    |      |     |       | ✅        | salto if accumulatore $\gt 0$ |
 | JZERO   |      |     |       | ✅        | salto if accumulatore $= 0$   |
 | HALT    |      |     |       | ✅        | end                           |
+
+
+---
+
+# Il set di istruizioni RISC-V
+
